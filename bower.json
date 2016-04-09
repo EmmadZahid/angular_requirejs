@@ -1,0 +1,20 @@
+{
+  "name": "Example",
+  "version": "0.0.1",
+  "authors": [
+    "Exceed Gulf"
+  ],
+  "description": "Exceed Gulf",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "angular": "^1.4.x",
+    "angular-route": "^1.4.x",
+    "angular-material": "^1.0.x",
+    "angular-resource": "^1.4.x",
+    "requirejs": "2.1.22",
+    "angular-bindonce": "~0.3.3",
+    "underscore": "1.8.3"
+  }
+}
